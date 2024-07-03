@@ -1,7 +1,4 @@
-# VentadeAutos
-# Daniel Alexander Perez Jacome
-
-danielperezec@gmail.com
+Issis Beltrán - Proyecto 8 - Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
